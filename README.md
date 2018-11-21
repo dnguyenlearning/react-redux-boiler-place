@@ -1,14 +1,9 @@
 # README #
 
-This README would normally document whatever steps are necessary to get xpo-ab-testing up and running on your local machine
-
-### What is this repository for? ###
-This repository contains the source code for xpo curator cms
-
 ### How do I get set up? ###
 
 * Summary of set up
-1. Clone repo (git+ssh://git@bitbucket.org/knorexteam/xpo-designer-abtesting.git)
+1. Clone repo (https://github.com/dnguyenlearning/react-redux-boiler-place.git)
 
 2. `npm install` (node >=8)
 -  Install dependences for project.
@@ -32,17 +27,3 @@ This repository contains the source code for xpo curator cms
 3. npm run build
 
 4. Run Dockerfile.
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-
-### Known issues
-* jest does not compatible with babel 7. The current solution is workaround !!!!
