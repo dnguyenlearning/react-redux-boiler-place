@@ -1,0 +1,21 @@
+@import "~variables";
+
+.wrapper{
+    width: 50vw;
+    height: 100%;
+    margin: 0 auto;
+    background: $test_bg;
+    .header{
+        background: $button_bg;
+        padding: 10px;
+        color: white;
+    }
+    ul{
+        padding: 10px 20px;
+        list-style-type: none;
+        li{
+            color: $test_primary_color;
+            font-size: 20px;
+        }
+    }
+}
